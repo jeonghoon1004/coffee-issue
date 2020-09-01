@@ -3,7 +3,7 @@
 
 ---------------------------------
 ios 아아 커피주문앱의 페이지입니다.
-문의사항은 https://github.com/jeonghoon1004/coffeeios/issues 란에 기입해주시거나
+문의사항은 https://github.com/jeonghoon1004//issues 란에 기입해주시거나
 kyg1084@gmail.com로 문의해주세요
 
 ---------------------------------
